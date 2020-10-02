@@ -1,0 +1,27 @@
+{
+  "name": "airline-logos",
+  "version": "1.0.0",
+  "description": "A collection of airport logos",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasilevich/Airline-Logos.git"
+  },
+  "keywords": [
+    "airport",
+    "logos"
+  ],
+  "author": "https://github.com/calda/Airline-Logos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calda/Airline-Logos/issues"
+  },
+  "homepage": "https://github.com/calda/Airline-Logos",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
